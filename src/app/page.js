@@ -82,7 +82,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.table}>
-          <h2>Tabell:</h2>
+          <h2>Tabell (15/6 efter Sveriges kross):</h2>
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
               <h4>60 poäng:</h4>

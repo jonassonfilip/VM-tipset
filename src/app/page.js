@@ -85,65 +85,90 @@ export default function Home() {
           <h2>Tabell:</h2>
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
+              <h4>60 poäng:</h4>
+              <ul>
+                <li>Martin</li>
+                <li>Therese</li>
+              </ul>
+
+              <h4>55 poäng:</h4>
+              <ul>
+                <li>Johan J</li>
+                <li>Petra</li>
+              </ul>
+
+              <h4>50 poäng:</h4>
               <ul>
                 <li>Aksel</li>
+                <li>Andreas</li>
+                <li>Berit</li>
+                <li>Filip</li>
+                <li>Henrik</li>
+                <li>Johan N</li>
+                <li>Johannes</li>
+                <li>Julian</li>
+                <li>Mattias</li>
+                <li>Sam</li>
+                <li>Sonja</li>
+              </ul>
+
+              <h4>45 poäng:</h4>
+              <ul>
+                <li>Basta</li>
+                <li>Caroline</li>
+                <li>Johanna</li>
+              </ul>
+
+              <h4>40 poäng:</h4>
+              <ul>
                 <li>Alessandro</li>
                 <li>Alexander</li>
-                <li>Anders</li>
-                <li>Andreas</li>
-                <li>Anncatrine</li>
-                <li>Atti</li>
-                <li>Basta</li>
-                <li>Berit</li>
-                <li>Birgitta</li>
                 <li>Bodil</li>
-                <li>Caroline</li>
                 <li>Clas</li>
                 <li>Edvin</li>
-                <li>Filip</li>
-                <li>Frida</li>
-                <li>Gabriel</li>
-                <li>Hannes</li>
-                <li>Henrik</li>
-                <li>Jakob</li>
                 <li>Joakim</li>
-                <li>Joel</li>
-                <li>Johan J</li>
                 <li>Johan M</li>
-                <li>Johan N</li>
-              </ul>
-            </div>
-            <div className={styles.tableRow}>
-              <ul></ul>
-            </div>
-
-            <div className={styles.tableRow}>
-              <ul>
-                <li>Johanna</li>
-                <li>Johannes</li>
-                <li>Jonas</li>
-                <li>Julian</li>
-                <li>Lina</li>
-                <li>Linn</li>
-                <li>Linus</li>
-                <li>Ludwig P</li>
-                <li>Ludwig R</li>
                 <li>Marcus</li>
                 <li>Maria</li>
-                <li>Martin</li>
                 <li>Maya</li>
-                <li>Mattias</li>
                 <li>Niklas</li>
                 <li>Noel</li>
-                <li>Oliver</li>
-                <li>Oskar</li>
-                <li>Peter</li>
-                <li>Petra</li>
                 <li>Robin</li>
-                <li>Sam</li>
+              </ul>
+            </div>
+
+            <div className={styles.tableRow}></div>
+
+            <div className={styles.tableRow}>
+              <h4>35 poäng:</h4>
+              <ul>
+                <li>Gabriel</li>
+                <li>Hannes</li>
+                <li>Jakob</li>
+                <li>Jonas</li>
+                <li>Ludwig P</li>
+                <li>Oskar</li>
+              </ul>
+
+              <h4>30 poäng:</h4>
+              <ul>
+                <li>Anncatrine</li>
+                <li>Atti</li>
+                <li>Birgitta</li>
+                <li>Frida</li>
+                <li>Joel</li>
+                <li>Lina</li>
+                <li>Linus</li>
+                <li>Ludwig R</li>
+                <li>Oliver</li>
                 <li>Sofie</li>
-                <li>Sonja</li>
-                <li>Therese</li>
+              </ul>
+
+              <h4>25 poäng:</h4>
+              <ul>
+                <li>Anders</li>
+                <li>Linn</li>
+                <li>Peter</li>
               </ul>
             </div>
           </div>

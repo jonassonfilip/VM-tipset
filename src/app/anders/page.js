@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import coupon from './anders-1.png';
+import coupon from '/public/anders-1.png';
 import styles from '../page.module.css';
 
 export default function Page() {

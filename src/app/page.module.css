@@ -31,6 +31,14 @@
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.893);
 }
 
+.backButton {
+  text-decoration: none;
+  padding: 1rem;
+  padding-left: 0;
+  font-size: 2rem;
+  color: antiquewhite;
+}
+
 /* ===== PARTICIPANTS ===== */
 .participants {
   width: 33%;

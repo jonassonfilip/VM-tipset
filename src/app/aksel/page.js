@@ -6,14 +6,16 @@ import Link from 'next/link';
 export default function Page() {
   return (
     <div className={styles.coupon}>
-      <Link
-        href="/"
-        className={styles.backButton}
-        aria-label="Tillbaka till startsidan"
-      >
-        ←
-      </Link>
-      <h1>Aksel Lindqvist</h1>
+      <h1>
+        <Link
+          href="/"
+          className={styles.backButton}
+          aria-label="Tillbaka till startsidan"
+        >
+          ←
+        </Link>{' '}
+        Aksel Lindqvist
+      </h1>
       <Image src={coupon} alt="The participants magnificent bet" />
     </div>
   );

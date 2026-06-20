@@ -14,7 +14,7 @@ export default function Page() {
           aria-label="Tillbaka till startsidan"
         >
           ←
-        </Link>
+        </Link>{' '}
         Sonja Román
       </h1>
       <Image src={coupon} alt="The participants magnificent bet" />

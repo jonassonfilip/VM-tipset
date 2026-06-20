@@ -82,7 +82,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.table}>
-          <h2>Tabell (20/6 innan förnedringen av Sverige):</h2>
+          <h2>Tabell (20/6 innan Sverige torskade):</h2>
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
               <h4>105 poäng:</h4>
@@ -124,6 +124,7 @@ export default function Home() {
                 <li>Bodil</li>
                 <li>Joakim</li>
                 <li>Julian</li>
+                <li>Noel</li>
               </ul>
             </div>
 

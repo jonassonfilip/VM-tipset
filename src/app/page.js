@@ -82,93 +82,97 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.table}>
-          <h2>Tabell (15/6 efter Sveriges kross):</h2>
+          <h2>Tabell (20/6 innan förnedringen av Sverige):</h2>
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
-              <h4>60 poäng:</h4>
+              <h4>105 poäng:</h4>
               <ul>
-                <li>Martin</li>
-                <li>Therese</li>
-              </ul>
-
-              <h4>55 poäng:</h4>
-              <ul>
-                <li>Johan J</li>
                 <li>Petra</li>
               </ul>
 
-              <h4>50 poäng:</h4>
-              <ul>
-                <li>Aksel</li>
-                <li>Andreas</li>
-                <li>Berit</li>
-                <li>Filip</li>
-                <li>Henrik</li>
-                <li>Johan N</li>
-                <li>Johannes</li>
-                <li>Julian</li>
-                <li>Mattias</li>
-                <li>Sam</li>
-                <li>Sonja</li>
-              </ul>
-
-              <h4>45 poäng:</h4>
-              <ul>
-                <li>Basta</li>
-                <li>Caroline</li>
-                <li>Johanna</li>
-              </ul>
-
-              <h4>40 poäng:</h4>
+              <h4>100 poäng:</h4>
               <ul>
                 <li>Alessandro</li>
+                <li>Andreas</li>
+                <li>Robin</li>
+                <li>Sonja</li>
+                <li>Therese</li>
+              </ul>
+
+              <h4>95 poäng:</h4>
+              <ul>
+                <li>Aksel</li>
+                <li>Johan</li>
+                <li>Mattias</li>
+                <li>Maya</li>
+                <li>Sofie</li>
+              </ul>
+
+              <h4>90 poäng:</h4>
+              <ul>
+                <li>Caroline</li>
+                <li>Gabriel</li>
+                <li>Henrik</li>
+                <li>Martin</li>
+                <li>Niklas</li>
+                <li>Sam</li>
+              </ul>
+
+              <h4>85 poäng:</h4>
+              <ul>
                 <li>Alexander</li>
                 <li>Bodil</li>
-                <li>Clas</li>
-                <li>Edvin</li>
                 <li>Joakim</li>
-                <li>Johan M</li>
-                <li>Marcus</li>
-                <li>Maria</li>
-                <li>Maya</li>
-                <li>Niklas</li>
-                <li>Noel</li>
-                <li>Robin</li>
+                <li>Julian</li>
               </ul>
             </div>
 
             <div className={styles.tableRow}></div>
 
             <div className={styles.tableRow}>
-              <h4>35 poäng:</h4>
+              <h4>80 poäng:</h4>
               <ul>
-                <li>Gabriel</li>
-                <li>Hannes</li>
+                <li>Edvin</li>
                 <li>Jakob</li>
-                <li>Jonas</li>
+                <li>Johanna</li>
+                <li>Johannes</li>
+                <li>Linn</li>
                 <li>Ludwig P</li>
+                <li>Marcus</li>
+              </ul>
+
+              <h4>75 poäng:</h4>
+              <ul>
+                <li>Basta</li>
+                <li>Berit</li>
+                <li>Filip</li>
+                <li>Frida</li>
+                <li>Hannes</li>
+                <li>Jonas</li>
+                <li>Lina</li>
                 <li>Oskar</li>
               </ul>
 
-              <h4>30 poäng:</h4>
+              <h4>70 poäng:</h4>
+              <ul>
+                <li>Clas</li>
+                <li>Linus</li>
+                <li>Ludwig R</li>
+              </ul>
+
+              <h4>65 poäng:</h4>
               <ul>
                 <li>Anncatrine</li>
                 <li>Atti</li>
-                <li>Birgitta</li>
-                <li>Frida</li>
                 <li>Joel</li>
-                <li>Lina</li>
-                <li>Linus</li>
-                <li>Ludwig R</li>
+                <li>Maria</li>
                 <li>Oliver</li>
-                <li>Sofie</li>
+                <li>Peter</li>
               </ul>
 
-              <h4>25 poäng:</h4>
+              <h4>60 poäng:</h4>
               <ul>
                 <li>Anders</li>
-                <li>Linn</li>
-                <li>Peter</li>
               </ul>
             </div>
           </div>

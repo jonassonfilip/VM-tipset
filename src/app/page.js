@@ -102,7 +102,7 @@ export default function Home() {
               <h4>95 poäng:</h4>
               <ul>
                 <li>Aksel</li>
-                <li>Johan</li>
+                <li>Johan J</li>
                 <li>Mattias</li>
                 <li>Maya</li>
                 <li>Sofie</li>
@@ -123,6 +123,7 @@ export default function Home() {
                 <li>Alexander</li>
                 <li>Bodil</li>
                 <li>Joakim</li>
+                <li>Johan N</li>
                 <li>Julian</li>
                 <li>Noel</li>
               </ul>
@@ -135,6 +136,7 @@ export default function Home() {
               <ul>
                 <li>Edvin</li>
                 <li>Jakob</li>
+                <li>Johan M</li>
                 <li>Johanna</li>
                 <li>Johannes</li>
                 <li>Linn</li>
@@ -165,6 +167,7 @@ export default function Home() {
               <ul>
                 <li>Anncatrine</li>
                 <li>Atti</li>
+                <li>Birgitta</li>
                 <li>Joel</li>
                 <li>Maria</li>
                 <li>Oliver</li>

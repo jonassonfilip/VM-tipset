@@ -82,101 +82,121 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.table}>
-          <h2>Tabell (20/6 innan Sverige torskade):</h2>
+          <h2>Tabell (25/6 innan kvällsmatcherna):</h2>
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
-              <h4>105 poäng:</h4>
+              <h4>220 poäng:</h4>
               <ul>
+                <li>Johanna</li>
+              </ul>
+
+              <h4>215 poäng:</h4>
+              <ul>
+                <li>Alessandro</li>
+                <li>Gabriel</li>
+                <li>Joakim</li>
                 <li>Petra</li>
               </ul>
 
-              <h4>100 poäng:</h4>
+              <h4>210 poäng:</h4>
               <ul>
-                <li>Alessandro</li>
                 <li>Andreas</li>
+                <li>Johan M</li>
                 <li>Robin</li>
-                <li>Sonja</li>
-                <li>Therese</li>
-              </ul>
-
-              <h4>95 poäng:</h4>
-              <ul>
-                <li>Aksel</li>
-                <li>Johan J</li>
-                <li>Mattias</li>
-                <li>Maya</li>
-                <li>Sofie</li>
-              </ul>
-
-              <h4>90 poäng:</h4>
-              <ul>
-                <li>Caroline</li>
-                <li>Gabriel</li>
-                <li>Henrik</li>
-                <li>Martin</li>
-                <li>Niklas</li>
                 <li>Sam</li>
               </ul>
 
-              <h4>85 poäng:</h4>
+              <h4>205 poäng:</h4>
               <ul>
                 <li>Alexander</li>
+                <li>Edvin</li>
+                <li>Johan J</li>
+                <li>Therese</li>
+              </ul>
+
+              <h4>200 poäng:</h4>
+              <ul>
+                <li>Aksel</li>
                 <li>Bodil</li>
-                <li>Joakim</li>
                 <li>Johan N</li>
-                <li>Julian</li>
+                <li>Linn</li>
+                <li>Sofie</li>
+              </ul>
+
+              <h4>195 poäng:</h4>
+              <ul>
+                <li>Hannes</li>
+                <li>Henrik</li>
+                <li>Lina</li>
+                <li>Marcus</li>
+                <li>Maya</li>
                 <li>Noel</li>
+                <li>Oskar</li>
+              </ul>
+
+              <h4>190 poäng:</h4>
+              <ul>
+                <li>Filip</li>
+                <li>Ludwig P</li>
+                <li>Ludwig R</li>
+                <li>Niklas</li>
               </ul>
             </div>
 
             <div className={styles.tableRow}></div>
 
             <div className={styles.tableRow}>
-              <h4>80 poäng:</h4>
+              <h4>185 poäng:</h4>
               <ul>
-                <li>Edvin</li>
-                <li>Jakob</li>
-                <li>Johan M</li>
-                <li>Johanna</li>
+                <li>Frida</li>
                 <li>Johannes</li>
-                <li>Linn</li>
-                <li>Ludwig P</li>
-                <li>Marcus</li>
+                <li>Linus</li>
+                <li>Mattias</li>
+                <li>Oliver</li>
+                <li>Sonja</li>
               </ul>
 
-              <h4>75 poäng:</h4>
+              <h4>180 poäng:</h4>
               <ul>
                 <li>Basta</li>
                 <li>Berit</li>
-                <li>Filip</li>
-                <li>Frida</li>
-                <li>Hannes</li>
-                <li>Jonas</li>
-                <li>Lina</li>
-                <li>Oskar</li>
+                <li>Jakob</li>
+                <li>Martin</li>
               </ul>
 
-              <h4>70 poäng:</h4>
+              <h4>175 poäng:</h4>
               <ul>
-                <li>Clas</li>
-                <li>Linus</li>
-                <li>Ludwig R</li>
+                <li>Anders</li>
               </ul>
 
-              <h4>65 poäng:</h4>
+              <h4>170 poäng:</h4>
               <ul>
                 <li>Anncatrine</li>
-                <li>Atti</li>
                 <li>Birgitta</li>
-                <li>Joel</li>
-                <li>Maria</li>
-                <li>Oliver</li>
+                <li>Clas</li>
+                <li>Jonas</li>
+              </ul>
+
+              <h4>160 poäng:</h4>
+              <ul>
                 <li>Peter</li>
               </ul>
 
-              <h4>60 poäng:</h4>
+              <h4>155 poäng:</h4>
               <ul>
-                <li>Anders</li>
+                <li>Caroline</li>
+                <li>Joel</li>
+                <li>Julian</li>
+              </ul>
+
+              <h4>150 poäng:</h4>
+              <ul>
+                <li>Maria</li>
+              </ul>
+
+              <h4>145 poäng:</h4>
+              <ul>
+                <li>Atti</li>
               </ul>
             </div>
           </div>

@@ -95,13 +95,13 @@ export default function Home() {
                 <li>Alessandro</li>
                 <li>Gabriel</li>
                 <li>Joakim</li>
+                <li>Johan M</li>
                 <li>Petra</li>
               </ul>
 
               <h4>210 poäng:</h4>
               <ul>
                 <li>Andreas</li>
-                <li>Johan M</li>
                 <li>Robin</li>
                 <li>Sam</li>
               </ul>

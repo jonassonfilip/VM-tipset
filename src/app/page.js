@@ -133,6 +133,7 @@ export default function Home() {
               <h4>320 poäng:</h4>
               <ul>
                 <li>Alessandro</li>
+                <li>Filip</li>
                 <li>Gabriel</li>
                 <li>Henrik</li>
                 <li>Mattias</li>
@@ -157,11 +158,11 @@ export default function Home() {
             </div>
 
             <div className={styles.tableRow}></div>
+
             <div className={styles.tableRow}>
               <h4>300 poäng:</h4>
               <ul>
                 <li>Aksel</li>
-                <li>Filip</li>
                 <li>Martin</li>
                 <li>Sonja</li>
               </ul>
@@ -173,9 +174,14 @@ export default function Home() {
                 <li>Oliver</li>
               </ul>
 
+              <h4>290 poäng:</h4>
+              <ul>
+                <li>Anders</li>
+                <li>Anncatrine</li>
+              </ul>
+
               <h4>285 poäng:</h4>
               <ul>
-                <li>Anncatrine</li>
                 <li>Basta</li>
                 <li>Clas</li>
                 <li>Hannes</li>
@@ -189,7 +195,6 @@ export default function Home() {
 
               <h4>275 poäng:</h4>
               <ul>
-                <li>Anders</li>
                 <li>Berit</li>
                 <li>Jonas</li>
               </ul>

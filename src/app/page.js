@@ -92,7 +92,6 @@ export default function Home() {
 
               <h4>365 poäng:</h4>
               <ul>
-                <li>Andreas</li>
                 <li>Robin</li>
               </ul>
 
@@ -104,17 +103,18 @@ export default function Home() {
 
               <h4>350 poäng:</h4>
               <ul>
+                <li>Andreas</li>
                 <li>Johan N</li>
               </ul>
 
               <h4>340 poäng:</h4>
               <ul>
+                <li>Johan J</li>
                 <li>Petra</li>
               </ul>
 
               <h4>335 poäng:</h4>
               <ul>
-                <li>Johan J</li>
                 <li>Linus</li>
               </ul>
 
@@ -125,14 +125,15 @@ export default function Home() {
 
               <h4>325 poäng:</h4>
               <ul>
-                <li>Bodil</li>
+                <li>Alessandro</li>
+                <li>Marcus</li>
                 <li>Niklas</li>
                 <li>Sam</li>
               </ul>
 
               <h4>320 poäng:</h4>
               <ul>
-                <li>Alessandro</li>
+                <li>Bodil</li>
                 <li>Filip</li>
                 <li>Gabriel</li>
                 <li>Henrik</li>
@@ -152,7 +153,7 @@ export default function Home() {
                 <li>Johanna</li>
                 <li>Johannes</li>
                 <li>Linn</li>
-                <li>Marcus</li>
+                <li>Martin</li>
                 <li>Therese</li>
               </ul>
             </div>
@@ -163,12 +164,14 @@ export default function Home() {
               <h4>300 poäng:</h4>
               <ul>
                 <li>Aksel</li>
-                <li>Martin</li>
+                <li>Anncatrine</li>
+                <li>Clas</li>
                 <li>Sonja</li>
               </ul>
 
               <h4>295 poäng:</h4>
               <ul>
+                <li>Anders</li>
                 <li>Ludwig P</li>
                 <li>Ludwig R</li>
                 <li>Oliver</li>
@@ -176,39 +179,36 @@ export default function Home() {
 
               <h4>290 poäng:</h4>
               <ul>
-                <li>Anders</li>
-                <li>Anncatrine</li>
+                <li>Berit</li>
+                <li>Jakob</li>
               </ul>
 
               <h4>285 poäng:</h4>
               <ul>
-                <li>Basta</li>
-                <li>Clas</li>
                 <li>Hannes</li>
               </ul>
 
               <h4>280 poäng:</h4>
               <ul>
-                <li>Jakob</li>
+                <li>Basta</li>
                 <li>Oskar</li>
               </ul>
 
               <h4>275 poäng:</h4>
               <ul>
-                <li>Berit</li>
                 <li>Jonas</li>
               </ul>
 
               <h4>270 poäng:</h4>
               <ul>
                 <li>Birgitta</li>
+                <li>Joel</li>
                 <li>Maria</li>
               </ul>
 
               <h4>265 poäng:</h4>
               <ul>
                 <li>Caroline</li>
-                <li>Joel</li>
                 <li>Maya</li>
               </ul>
 

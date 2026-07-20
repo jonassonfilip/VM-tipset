@@ -114,6 +114,7 @@
 .tableRow:nth-child(1) {
   grid-column: 1;
   grid-row: 1;
+  margin-right: 1rem;
 }
 .tableRow:nth-child(2) {
   grid-column: 1;
